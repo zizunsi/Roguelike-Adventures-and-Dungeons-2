@@ -1,3 +1,7 @@
+# 注意
+在线表格链接:https://docs.qq.com/sheet/DU3VhUURtY2tLdWJO?tab=BB08J2
+部分模组是有汉化，但是不全，可自行查i18n汉化材质包对比，以及部分模组有被整合包作者改模组语言文件
+ftb指南是需要汉化readme.md文件
 # Modpack Name 汉化补丁
 CurseForge|Modrinth|Modpack Version|Status
 :-|:-|:-|:-
