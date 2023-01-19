@@ -5,7 +5,7 @@ ftb指南是需要汉化readme.md文件
 # RAD 汉化补丁
 CurseForge|Modrinth|Modpack Version|Status
 :-|:-|:-|:-
-[Modpack]()|[Modpack]()|Version|*Active*|
+[Modpack](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)|[Modpack]()|Version|*Active*|
 # 作者
 查看贡献者列表以获得完整列表
 # 鸣谢
