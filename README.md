@@ -3,9 +3,9 @@
 部分模组是有汉化，但是不全，可自行查i18n汉化材质包对比，以及部分模组有被整合包作者改模组语言文件
 ftb指南是需要汉化readme.md文件
 # RAD 汉化补丁
-CurseForge|Modrinth|Modpack Version|Status
-:-|:-|:-|:-
-[Modpack](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)|[Modpack]()|Version|*Active*|
+CurseForge|Modpack Version|Status
+:-|:-|:-
+[Roguelike-Adventures-and-Dungeons](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)|Version|*Active*|
 # 作者
 查看贡献者列表以获得完整列表
 # 鸣谢
