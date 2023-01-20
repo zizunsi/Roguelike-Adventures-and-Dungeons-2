@@ -1,10 +1,10 @@
 {
-	title: "致命暗夜金属装备",
+	title: "Tenebrum Armaments",
 	x: 0.5d,
 	y: -0.5d,
-	description: "午夜次元的最佳装备",
+	description: "The best it gets in the Midnight",
 	text: [
-		"制作一套致命暗夜金属装甲。"
+		"Craft the Tenebrum armor."
 	],
 	dependencies: [
 		"018f1c8f"

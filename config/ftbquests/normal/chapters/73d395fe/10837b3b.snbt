@@ -1,12 +1,12 @@
 {
-	title: "致盲炸弹",
+	title: "Blindness Bomb",
 	x: -3.0d,
 	y: 0.0d,
-	description: "让黑夜更加阴暗",
+	description: "Makes the darkness even darker",
 	text: [
-		"这种炸弹会使人获得类似失明的效果。",
+		"This bomb gives an effect similar to blindness.",
 		"",
-		"获取一个暗夜菇孢子炸弹。"
+		"Obtain a Nightshroom Spore Bomb."
 	],
 	dependencies: [
 		"500c1c45"

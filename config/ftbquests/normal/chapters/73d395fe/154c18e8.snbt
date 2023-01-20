@@ -1,12 +1,12 @@
 {
-	title: "纳格瑞特金属锭",
+	title: "Nagrilite Ingot",
 	x: 0.5d,
 	y: -2.5d,
-	description: "我想用这个烧烤",
+	description: "I want to make a grill out of this",
 	text: [
-		"再煎一些牛排，一分熟。",
+		"Cook up some blue steak as well.",
 		"",
-		"获取一块纳格瑞特金属锭。"
+		"Obtain a Nagrilite Ingot."
 	],
 	dependencies: [
 		"03bff484"

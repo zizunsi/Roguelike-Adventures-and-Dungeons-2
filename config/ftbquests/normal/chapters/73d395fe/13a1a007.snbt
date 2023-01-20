@@ -1,10 +1,10 @@
 {
-	title: "发光的岩石！",
+	title: "Glowy Rocks!",
 	x: 0.0d,
 	y: -6.0d,
-	description: "仅有装饰作用",
+	description: "Just there to look pretty",
 	text: [
-		"获取一些鲁克斯岩和鲁克斯水晶。"
+		"Obtain some Rouxe and Bloomcrystal rocks and crystals."
 	],
 	dependencies: [
 		"03bff484"

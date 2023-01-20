@@ -1,12 +1,12 @@
 {
-	title: "焦虑炸弹",
+	title: "Twitchy Bomb",
 	x: -5.0d,
 	y: -2.0d,
-	description: "我很慢吗？",
+	description: "Am I lagging?",
 	text: [
-		"这种炸弹会使人获得晕头转向的药水效果。",
+		"This bomb gives an effect similar to rubberbanding and lag.",
 		"",
-		"获得一个藓沼菇孢子炸弹。"
+		"Obtain a Bogshroom Spore Bomb."
 	],
 	dependencies: [
 		"500c1c45"
