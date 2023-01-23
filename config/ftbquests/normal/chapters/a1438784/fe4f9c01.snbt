@@ -4,7 +4,7 @@
 	y: 6.0d,
 	description: "这种人才不存在",
 	text: [
-		"杰克，是我，泰瑞·克鲁斯。（作者你是不是nantong啊）"
+		"杰克，是我，泰瑞·克鲁斯。"
 	],
 	hide: true,
 	size: 1.5d,
