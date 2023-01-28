@@ -1,10 +1,10 @@
 {
-	title: "Hot and Hungry",
+	title: "又热又饿(hot and hungry)",
 	x: -5.0d,
 	y: -5.5d,
-	description: "Isn't that every skinny girl?",
+	description: "这难道不是在说骨感美女?",
 	text: [
-		"Obtain the Infernal Claws from the Shop."
+		"在商店中购买炼狱钩爪."
 	],
 	tasks: [{
 		uid: "b570c384",
