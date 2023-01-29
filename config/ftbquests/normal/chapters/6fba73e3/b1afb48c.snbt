@@ -2,7 +2,7 @@
 	title: "爆竹！",
 	x: 1.5d,
 	y: -5.5d,
-	description: "别握着这玩意儿太久!",
+	description: "别握着这玩意儿太久！",
 	text: [
 		"制作毁灭触媒。"
 	],
