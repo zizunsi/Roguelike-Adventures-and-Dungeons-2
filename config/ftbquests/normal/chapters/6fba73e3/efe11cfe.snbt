@@ -2,7 +2,7 @@
 	title: "禁止进入!",
 	x: 1.0d,
 	y: -3.5d,
-	description: "非法闯入者将被起诉!",
+	description: "非法闯入者将被起诉！",
 	text: [
 		"制作一些结界火炬."
 	],
