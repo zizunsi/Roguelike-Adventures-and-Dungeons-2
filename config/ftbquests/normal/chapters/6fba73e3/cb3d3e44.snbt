@@ -4,7 +4,7 @@
 	y: -4.5d,
 	description: "它带来了好东西",
 	text: [
-		"制作幸运硬币."
+		"制作幸运硬币。"
 	],
 	tasks: [{
 		uid: "50bfaa46",
