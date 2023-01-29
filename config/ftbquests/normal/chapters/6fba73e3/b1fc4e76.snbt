@@ -2,7 +2,7 @@
 	title: "自由落体",
 	x: 0.0d,
 	y: -10.0d,
-	description: "就像路西法.",
+	description: "就像路西法。",
 	text: [
 		"在商店里购买天使之羽."
 	],
