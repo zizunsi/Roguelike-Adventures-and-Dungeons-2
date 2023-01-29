@@ -2,9 +2,9 @@
 	title: "轻拂她，轻轻的把她吹飞~",
 	x: -0.5d,
 	y: -7.0d,
-	description: "她还会回来吗?",
+	description: "她还会回来吗？",
 	text: [
-		"制作裂风者."
+		"制作裂风者"
 	],
 	tasks: [{
 		uid: "606f9682",

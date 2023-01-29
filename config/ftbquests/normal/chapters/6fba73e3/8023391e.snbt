@@ -2,9 +2,9 @@
 	title: "上楼梯保持5马赫",
 	x: 5.5d,
 	y: -3.0d,
-	description: "别回头看！",
+	description: "别回头看！！",
 	text: [
-		"制作诞妄提灯."
+		"制作诞妄提灯。"
 	],
 	tasks: [{
 		uid: "b3054425",

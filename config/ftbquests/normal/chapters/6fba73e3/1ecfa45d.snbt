@@ -1,8 +1,8 @@
 {
-	title: "他从哪里来?",
+	title: "他从哪里来？",
 	x: 2.5d,
 	y: -7.0d,
-	description: "他要到哪去?",
+	description: "他要到哪去？",
 	text: [
 		"制作旅居者手杖",
 		"",
