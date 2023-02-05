@@ -2,9 +2,9 @@
 	title: "让我们开始祈祷(lettuce Pray)。",
 	x: 9.0d,
 	y: -17.5d,
-	description: "我的生菜(cabbage=lettuce)。",
+	description: "我的生菜。",
 	text: [
-		"合成一个神能炉(altar)。"
+		"合成一个神能炉。"
 	],
 	dependencies: [
 		"c74902d8"

@@ -1,12 +1,12 @@
 {
-	title: "你不知道我到底有多快",
+	title: "你不知道我到底有多快。",
 	x: 2.0d,
 	y: -14.5d,
 	description: "我快如 %&#@",
 	text: [
-		"获得敏捷之靴.",
+		"获得敏捷之靴。",
 		"",
-		"穿戴后自动爬升一格高度并且跑的更快."
+		"穿戴后自动爬升一格高度并且跑的更快。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

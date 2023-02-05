@@ -2,11 +2,11 @@
 	title: "占星女巫(Astrology Girls)",
 	x: 1.5d,
 	y: -19.0d,
-	description: "其中一个人给你石头",
+	description: "其中一个人给你石头。",
 	text: [
 		"这让我感觉很舒服,我猜的?",
 		"",
-		"合成治愈灵石(用神能炉冶炼天境的石头获得)."
+		"合成治愈灵石。"
 	],
 	dependencies: [
 		"de9220a6"

@@ -1,12 +1,12 @@
 {
-	title: "神能(Am bro)火把",
+	title: "神能火把",
 	x: 1.0d,
 	y: -17.5d,
-	description: "很高兴遇见你 Bro Torch",
+	description: "很高兴遇见你,Bro Torch",
 	text: [
-		"合成神能火把.",
+		"合成神能火把。",
 		"",
-		"这是唯一一种能放在天境的火把."
+		"这是唯一一种能放在天境的火把。"
 	],
 	dependencies: [
 		"de9220a6"

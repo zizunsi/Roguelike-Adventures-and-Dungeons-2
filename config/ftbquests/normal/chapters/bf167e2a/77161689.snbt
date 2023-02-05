@@ -1,10 +1,10 @@
 {
-	title: "回来(重力矿石会反重力抬升)!",
+	title: "回来!",
 	x: 5.0d,
 	y: -19.5d,
 	description: "我深爱着你天空!",
 	text: [
-		"收集重力矿石."
+		"收集重力矿石。"
 	],
 	dependencies: [
 		"9ca912fb"

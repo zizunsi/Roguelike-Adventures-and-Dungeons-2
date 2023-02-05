@@ -4,7 +4,7 @@
 	y: -15.5d,
 	description: "我希望它能被称为那个,升级版?",
 	text: [
-		"获得杀猪刀(一击秒杀猪类生物)."
+		"获得杀猪刀。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

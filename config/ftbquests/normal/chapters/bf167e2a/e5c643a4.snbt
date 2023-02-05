@@ -1,10 +1,10 @@
 {
-	title: "云朵枪(Cloud Shooter)",
+	title: "云朵枪",
 	x: 0.5d,
 	y: -13.5d,
-	description: "听起来有点脏",
+	description: "听起来有点脏。",
 	text: [
-		"获得境云权杖."
+		"获得境云权杖。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

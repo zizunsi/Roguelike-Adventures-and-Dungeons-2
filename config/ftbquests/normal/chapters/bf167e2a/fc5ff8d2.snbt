@@ -2,11 +2,11 @@
 	title: "暗中窥视",
 	x: 1.0d,
 	y: -14.5d,
-	description: "有了这个,你能一直隐身",
+	description: "有了这个,你能一直隐身。",
 	text: [
-		"获得隐形斗篷和隐形斗篷.",
+		"获得隐形斗篷和隐形斗篷。",
 		"",
-		"按照它说的去做.永远 ."
+		"按照它说的去做,永远。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

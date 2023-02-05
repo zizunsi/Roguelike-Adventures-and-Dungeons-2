@@ -4,7 +4,7 @@
 	y: -16.0d,
 	description: "Sweg 很酷很厉害",
 	text: [
-		"合成紫晶套装(防御力随耐久降低而增加)."
+		"合成紫晶套装。"
 	],
 	dependencies: [
 		"c74902d8"
