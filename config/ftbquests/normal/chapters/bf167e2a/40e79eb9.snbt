@@ -2,7 +2,7 @@
 	title: "哇哦 恐鸟!",
 	x: 11.5d,
 	y: -16.5d,
-	description: "大型渡渡鸟",
+	description: "变大版渡渡鸟",
 	text: [
 		"合成自然权杖。"
 	],

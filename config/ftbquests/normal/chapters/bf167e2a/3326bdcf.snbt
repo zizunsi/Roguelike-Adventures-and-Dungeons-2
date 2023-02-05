@@ -6,7 +6,7 @@
 	text: [
 		"获得反击之盾。",
 		"",
-		"当装备反击之盾,大部分弹射攻击将会被反弹。"
+		"装备反击之盾时,大部分弹射攻击将会被反弹。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

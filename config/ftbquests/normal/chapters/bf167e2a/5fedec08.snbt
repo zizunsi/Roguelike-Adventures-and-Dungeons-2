@@ -1,8 +1,8 @@
 {
-	title: "让我们开始祈祷(lettuce Pray)。",
+	title: "让我们开始祈祷。",
 	x: 9.0d,
 	y: -17.5d,
-	description: "我的生菜。",
+	description: "我的生菜!",
 	text: [
 		"合成一个神能炉。"
 	],

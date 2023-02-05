@@ -2,7 +2,7 @@
 	title: "我很强!",
 	x: 1.5d,
 	y: -13.5d,
-	description: "健身计划(Greyskull)不能帮助你。",
+	description: "Greyskull（一种健身计划）不能帮助你。",
 	text: [
 		"从滑行巨石的迷宫中获得多种不同的剑。",
 		"",
