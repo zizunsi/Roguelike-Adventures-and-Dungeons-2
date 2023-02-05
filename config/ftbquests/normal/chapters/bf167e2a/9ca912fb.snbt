@@ -2,9 +2,9 @@
 	title: "追踪云朵的人",
 	x: 5.0d,
 	y: -17.5d,
-	description: "对,是你想的那种云",
+	description: "对,是你想的那种云。",
 	text: [
-		"进入天境."
+		"进入天境。"
 	],
 	tasks: [{
 		uid: "062144d0",

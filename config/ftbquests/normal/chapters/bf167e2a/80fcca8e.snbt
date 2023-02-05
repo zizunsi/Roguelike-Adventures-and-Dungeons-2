@@ -2,9 +2,9 @@
 	title: "荣誉奖",
 	x: 6.0d,
 	y: -14.5d,
-	description: "事实上,这些是笑话",
+	description: "事实上,这些是笑话。",
 	text: [
-		"收集全套武神套装(空中三秒飞行,免疫摔落伤害)."
+		"收集全套武神套装。"
 	],
 	dependencies: [
 		"59534bbc"

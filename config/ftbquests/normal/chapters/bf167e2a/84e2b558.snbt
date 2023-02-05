@@ -4,9 +4,9 @@
 	y: -14.5d,
 	description: "斗篷侠!",
 	text: [
-		"获得敏捷斗篷.",
+		"获得敏捷斗篷。",
 		"",
-		"允许玩家自动走上一格高的方块."
+		"允许玩家自动走上一格高的方块。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

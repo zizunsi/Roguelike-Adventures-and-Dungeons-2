@@ -2,11 +2,11 @@
 	title: "越多生命,越多爱",
 	x: 3.0d,
 	y: -12.5d,
-	description: "这句话说的对吗? 现在捏",
+	description: "这句话说的对吗? 现在捏。",
 	text: [
-		"获得生命晶片.",
+		"获得生命晶片。",
 		"",
-		"一个能提升两点生命值,最高能提升到20点生命."
+		"一个能提升两点生命值,最高能提升到20点生命。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

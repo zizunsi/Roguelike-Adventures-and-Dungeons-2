@@ -4,7 +4,7 @@
 	y: -17.5d,
 	description: "你的梦中情人正在路上!",
 	text: [
-		"合成孵化器."
+		"合成孵化器。"
 	],
 	dependencies: [
 		"5fedec08"

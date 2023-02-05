@@ -2,13 +2,13 @@
 	title: "我很强!",
 	x: 1.5d,
 	y: -13.5d,
-	description: "健身计划(Greyskull)不能帮助你",
+	description: "健身计划(Greyskull)不能帮助你。",
 	text: [
-		"从滑行巨石的迷宫中获得多种不同的剑.",
+		"从滑行巨石的迷宫中获得多种不同的剑。",
 		"",
-		"每把剑有不同的能力.",
+		"每把剑有不同的能力。",
 		"",
-		"手上的剑可以扔了."
+		"手上的剑可以扔了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

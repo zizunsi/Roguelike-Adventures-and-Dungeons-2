@@ -2,9 +2,9 @@
 	title: "天境的恐鸟煎蛋卷",
 	x: 12.0d,
 	y: -17.5d,
-	description: "完美早餐的一部分",
+	description: "完美早餐的一部分。",
 	text: [
-		"获得恐鸟蛋"
+		"获得恐鸟蛋。"
 	],
 	dependencies: [
 		"157d0b0d"
