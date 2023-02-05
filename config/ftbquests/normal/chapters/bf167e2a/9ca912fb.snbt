@@ -1,15 +1,15 @@
 {
-	title: "Cloud Chaser",
+	title: "追踪云朵的人",
 	x: 5.0d,
 	y: -17.5d,
-	description: "Yes, the kind of clouds you're thinking",
+	description: "对,是你想的那种云",
 	text: [
-		"Enter the Aether."
+		"进入天境."
 	],
 	tasks: [{
 		uid: "062144d0",
 		type: "dimension",
-		title: "Visit The Aether",
+		title: "拜访天境",
 		dim: 4
 	}]
 }

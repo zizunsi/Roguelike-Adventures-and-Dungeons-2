@@ -1,12 +1,13 @@
 {
-	title: "Blistering",
+	title: "炽热的",
 	x: 7.5d,
 	y: -19.0d,
-	description: "HOT HOT HOT HOT",
+	description: "热 热 热 热",
 	text: [
-		"Obtain the Phoenix Armaments.",
+		"获得凤凰套装.",
 		"",
-		"Phoenix Armor grants full resistance to both lava and fire."
+		"凤凰套装对火焰和岩浆有很高的抗性
+		(主要体现在装备全套凤凰套装,会有抗火buff)."
 	],
 	dependencies: [
 		"9ca912fb"
