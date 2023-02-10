@@ -1332,6 +1332,7 @@ forfeit.ancientspellcraft\:self_transience=你变得空灵!
 
 item.ancientspellcraft\:tome.generic=魔典
 
+spell.ancientspellcraft\:enchant_lectern.desc=附魔一个放有一本已知的法术书的奥秘览术台。其他去读书的人会立刻知晓这个法术。把书取下后取消附魔。
 spell.ancientspellcraft\:enchant_lectern.unknown_spell=你不了解这个法术!
 spell.ancientspellcraft\:enchant_lectern.blessing_done=你附魔了讲台。在这本书被取下之前，阅读 %1$s的人会立即获得有关该法术的知识。
 spell.ancientspellcraft\:enchant_lectern=附魔览术台
