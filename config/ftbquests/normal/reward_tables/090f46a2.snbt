@@ -1,5 +1,5 @@
 {
-	title: "Crate of Lesser Disciplines",
+	title: "支流流派板条箱",
 	icon: "wizardryfates:lesser_scroll_earth",
 	loot_size: 1,
 	rewards: [{
@@ -25,7 +25,7 @@
 	}],
 	loot_crate: {
 		string_id: "crate_of_lesser_disciplines",
-		item_name: "Crate of Lesser Discipline Scrolls",
+		item_name: "支流流派卷轴板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,
