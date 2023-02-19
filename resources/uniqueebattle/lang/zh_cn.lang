@@ -12,7 +12,7 @@ enchantment.uniqueebattle.streakers_will=裸者意志
 enchantment.uniqueebattle.streakers_will.desc=有几率降低目标的护甲耐久度。
 
 enchantment.uniqueebattle.ares_fragment=战神碎片
-enchantment.uniqueebattle.ares_fragment.desc=每次命中都可以增加或减少你造成的伤害,几率随着玩家等级的增加而增加。
+enchantment.uniqueebattle.ares_fragment.desc=每次命中都可以增加或减少你造成的伤害，几率随着玩家等级的增加而增加。
 enchantment.uniqueebattle.artemis_soul=狩猎女神之魂
 enchantment.uniqueebattle.artemis_soul.desc=对铁砧潜行右击将与末影有关的物品转化为能量储存在武器中。击杀一个生物时，其灵魂会被储存，并且增多掉落物。为保持该效果，你需要用末影珍珠或者灵魂来“喂养”它。
 enchantment.uniqueebattle.deep_wounds=深度伤口
