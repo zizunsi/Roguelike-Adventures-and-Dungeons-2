@@ -5,7 +5,7 @@ itemGroup.dimensional_doors_creative_tab=次元门物品
 tile.gold_door.name=金门
 tile.quartz_door.name=石英门
 
-tile.iron_dimensional_door.name=次元门
+tile.iron_dimensional_door.name=铁制次元门
 tile.gold_dimensional_door.name=金制次元门
 tile.quartz_dimensional_door.name=私人次元门
 tile.unstable_dimensional_door.name=不稳定的门
