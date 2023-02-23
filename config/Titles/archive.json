@@ -1,17 +1,17 @@
 {
   "COMMON": [
-    "the Brute",
-    "the Apprentice",
-    "the Page"
+    "冷酷无情",
+    "学徒",
+    "助理"
   ],
   "UNCOMMON": [
-    "the Predator",
-    "the Journeyman",
-    "the Squire"
+    "掠夺者",
+    "旅人",
+    "乡绅"
   ],
   "RARE": [
-    "the Reaper",
-    "the Master",
-    "the Knight"
+    "收割者",
+    "大师",
+    "骑士"
   ]
 }
