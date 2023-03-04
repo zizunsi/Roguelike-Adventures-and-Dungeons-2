@@ -1,5 +1,5 @@
 {
-	title: "Crate of Main Disciplines",
+	title: "主流学派箱",
 	icon: "wizardryfates:scroll_earth",
 	loot_size: 1,
 	rewards: [{
@@ -28,7 +28,7 @@
 	}],
 	loot_crate: {
 		string_id: "crate_of_main_disciplines",
-		item_name: "Crate of Main Discipline Scrolls",
+		item_name: "主流学派卷轴板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,
