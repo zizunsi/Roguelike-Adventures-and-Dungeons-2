@@ -92,7 +92,7 @@ item.rift_key.bound.info=绑定
 item.rift_key.unbound.info=取消绑定
 
 item.iron_dimensional_door.info=放在裂痕下方的方块上\n来激活裂痕， \n或放在任意地点生成 \n一个口袋次元。
-item.gold_dimensional_door.info=类似于次元门 \n但它放在次元内部时 \n会保持次元的加载.
+item.gold_dimensional_door.info=类似于次元门 \n但它放在次元内部时 \n会保持次元的加载。
 item.quartz_dimensional_door.info=生成一个通向你 \n口袋次元的路径
 item.rift_blade.info=在裂痕上开启临时的门 \n它还拥有瞬移攻击的能力.
 item.rift_remover.info=在外露的裂痕附近使用 \n来移除它以及附近的其他 \n裂痕.
