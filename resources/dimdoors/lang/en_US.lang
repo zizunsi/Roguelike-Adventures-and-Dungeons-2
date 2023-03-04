@@ -101,7 +101,7 @@ item.rift_signature.unbound.info=第一次点击记录一个位置; \n第二次�
 item.stabilized_rift_signature.bound.info=指向(%d, %d, %d) 位于#%d
 item.stabilized_rift_signature.unbound.info=首次点击记录一个位置, \n再次点击生成连接两地的 \n裂痕.
 item.unstable_dimensional_door.info=注意: 将会随机传送
-item.oak_dimensional_door.info=放在裂痕下方的方块上 \n来制造传送门, \n放在口袋次元中 \n以退出空间.
+item.oak_dimensional_door.info=放在裂痕下方的方块上\n来制造传送门，\n放在口袋次元中 \n以退出空间。
 
 item.record.creepy.desc=Creepy - The sound of Limbo
 
