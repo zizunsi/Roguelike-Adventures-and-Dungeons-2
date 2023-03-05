@@ -2,7 +2,7 @@
 	title: "神偷奶爸",
 	x: 3.0d,
 	y: -14.5d,
-	description: "斗篷侠!",
+	description: "斗篷侠！",
 	text: [
 		"获得敏捷斗篷。",
 		"",
