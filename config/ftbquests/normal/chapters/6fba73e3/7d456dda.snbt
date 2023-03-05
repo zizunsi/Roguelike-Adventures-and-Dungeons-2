@@ -4,7 +4,7 @@
 	y: -6.5d,
 	description: "逊诶~",
 	text: [
-		"制作蛇杖。"
+		"制作大蛇法杖。"
 	],
 	tasks: [{
 		uid: "911bfbc2",
