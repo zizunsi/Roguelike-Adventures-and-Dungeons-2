@@ -1,8 +1,8 @@
 {
-	title: "最锋利的盔甲(bushi)",
+	title: "最锋利的盔甲？",
 	x: 8.0d,
 	y: -20.5d,
-	description: "说真的,我全身都有伤口。",
+	description: "说真的，我全身都有伤口。",
 	text: [
 		"获得一整套的黑曜石装备。"
 	],
