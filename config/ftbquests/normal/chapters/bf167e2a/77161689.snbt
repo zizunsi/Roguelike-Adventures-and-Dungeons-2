@@ -1,8 +1,8 @@
 {
-	title: "回来!",
+	title: "回来！",
 	x: 5.0d,
 	y: -19.5d,
-	description: "我深爱着你天空!",
+	description: "天空啊！我爱你！",
 	text: [
 		"收集重力矿石。"
 	],
