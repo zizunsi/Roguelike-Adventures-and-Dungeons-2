@@ -1,12 +1,12 @@
 {
-	title: "反击 堕落的野兽!",
+	title: "反击 堕落的野兽！",
 	x: 3.5d,
 	y: -13.5d,
-	description: "听着! 认真听!",
+	description: "听着！认真听！",
 	text: [
 		"获得反击之盾。",
 		"",
-		"装备反击之盾时,大部分弹射攻击将会被反弹。"
+		"装备反击之盾时，大部分弹射攻击将会被反弹。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
