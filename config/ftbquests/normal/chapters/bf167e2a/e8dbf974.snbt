@@ -2,7 +2,7 @@
 	title: "神能火把",
 	x: 1.0d,
 	y: -17.5d,
-	description: "很高兴遇见你,Bro Torch",
+	description: "很高兴遇见你，火把兄弟！",
 	text: [
 		"合成神能火把。",
 		"",
