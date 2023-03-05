@@ -1,12 +1,12 @@
 {
-	title: "越多生命,越多爱。",
+	title: "越多生命。越多爱。",
 	x: 3.0d,
 	y: -12.5d,
-	description: "这句话说的对吗? 现在捏。",
+	description: "这句话说的对吗？现在捏。",
 	text: [
 		"获得生命补片。",
 		"",
-		"一个能提升一颗心,最高能提升到20颗心。"
+		"一个能提升一颗心，最高能提升到20颗心。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
