@@ -1,10 +1,10 @@
 {
-	title: "占星女巫(Astrology Girls)",
+	title: "占星女巫（Astrology Girls）",
 	x: 1.5d,
 	y: -19.0d,
 	description: "其中一个人给你石头。",
 	text: [
-		"这让我感觉很舒服,我猜的?",
+		"这让我感觉很舒服，我猜的？",
 		"",
 		"合成治愈灵石。"
 	],
