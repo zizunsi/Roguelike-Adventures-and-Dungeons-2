@@ -1,10 +1,10 @@
 {
-	title: "Free Falling",
+	title: "自由落体",
 	x: 0.0d,
 	y: -10.0d,
-	description: "Kinda like Lucifer.",
+	description: "就像路西法。",
 	text: [
-		"Obtain an Angelic Feather from the Shop."
+		"在商店里购买天使之羽。"
 	],
 	tasks: [{
 		uid: "56066b0d",
