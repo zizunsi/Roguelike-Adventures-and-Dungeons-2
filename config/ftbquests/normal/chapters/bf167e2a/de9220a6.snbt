@@ -2,7 +2,7 @@
 	title: "神能晶片",
 	x: 3.0d,
 	y: -17.5d,
-	description: "很高兴 遇见你, Bro Shard",
+	description: "很高兴遇见你，Bro Shard",
 	text: [
 		"收集神能晶片。"
 	],
