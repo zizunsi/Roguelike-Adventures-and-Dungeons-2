@@ -1,8 +1,8 @@
 {
-	title: "后背疼(backaech)",
+	title: "后背疼（backaech）",
 	x: 11.5d,
 	y: -18.5d,
-	description: "不? 坏的?",
+	description: "不？坏的？",
 	text: [
 		"获得一些箭毒花瓣。",
 		""
