@@ -1,10 +1,10 @@
 {
-	title: "Porcuspine",
+	title: "豪猪",
 	x: -12.0d,
 	y: 0.0d,
-	description: "Worse than anything Earth's animal defense mechanisms have to offer",
+	description: "比地球上的动物防护机制所提供的更糟糕",
 	text: [
-		"Obtain a Chiromaw Erupter.",
+		"获得一个翼手钩发射器。",
 		"",
 		"Right-clicking with this item in your mainhand will release a volley of quills in a 360 degree radius around your player."
 	],
