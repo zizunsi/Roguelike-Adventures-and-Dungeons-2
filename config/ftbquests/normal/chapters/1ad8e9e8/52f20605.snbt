@@ -4,9 +4,9 @@
 	y: 1.5d,
 	description: "YOOWWWW!!",
 	text: [
-		"Craft a grapple from the tongue of a Shambler.",
+		"用蹒跚者舌头制作一个抓钩",
 		"",
-		"Nasty."
+		"恶心。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

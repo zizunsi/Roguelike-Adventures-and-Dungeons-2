@@ -1,12 +1,12 @@
 {
-	title: "Items Love You",
+	title: "爱你的物品",
 	x: -12.5d,
 	y: 2.5d,
-	description: "That's what it seems like anyways...",
+	description: "无论如何，它看起来就像...",
 	text: [
-		"It couldn't just be the magnet in your pocket...",
+		"它可不只是你口袋里的一块磁铁...",
 		"",
-		"This magnet will pull items in towards the player from up to 7 blocks away. The magnet will take durability loss every time an item is picked up using its effect."
+		"这块磁铁会将7格外的物品吸引到玩家身边。每次使用磁铁时都会消耗耐久度。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
