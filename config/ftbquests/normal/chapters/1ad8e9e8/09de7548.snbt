@@ -1,12 +1,12 @@
 {
-	title: "Syrmorite Armaments",
+	title: "赛摩铜武器",
 	x: 5.5d,
 	y: 1.5d,
-	description: "The best it gets in this wetland",
+	description: "它是这片湿地中最好的东西",
 	text: [
-		"It gets better though, don't worry.",
+		"不过情况会好转的，别担心。",
 		"",
-		"Craft all of the Syrmorite armor and tools."
+		"制作所有赛摩铜盔甲和工具。"
 	],
 	dependencies: [
 		"b8216d73"
