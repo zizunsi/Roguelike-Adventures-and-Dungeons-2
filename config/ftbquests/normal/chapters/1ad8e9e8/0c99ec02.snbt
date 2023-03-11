@@ -6,7 +6,7 @@
 	text: [
 		"这枚戒指消耗经验以召唤援兵。",
 		"",
-		"一个亡灵巫师的朋友...貌似是这样。"
+		"一个亡灵巫师的朋友……貌似是这样。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
