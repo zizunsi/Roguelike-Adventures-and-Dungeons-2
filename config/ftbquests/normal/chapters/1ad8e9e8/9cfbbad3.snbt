@@ -1,10 +1,10 @@
 {
-	title: "杂草木武器",
+	title: "Weedwood Armaments",
 	x: -1.0d,
 	y: 1.5d,
-	description: "一根木棍？就这样？",
+	description: "A stick? That's it?",
 	text: [
-		"制作所有杂草木工具。"
+		"Craft all the Weedwood tools."
 	],
 	dependencies: [
 		"3c192351"

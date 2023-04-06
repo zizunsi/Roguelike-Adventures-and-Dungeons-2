@@ -1,10 +1,10 @@
 {
-	title: "只是一个Fixer-Upper",
+	title: "Just a Fixer-Upper",
 	x: -3.0d,
 	y: -7.5d,
-	description: "没有什么可担心的 *boom*",
+	description: "Nothing to worry about *boom*",
 	text: [
-		"制作一些这种东西，准备好你的危险冒险。"
+		"Prepare for your dangerous adventures by crafting some of these."
 	],
 	dependencies: [
 		"995ca541"

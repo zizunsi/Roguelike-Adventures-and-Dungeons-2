@@ -1,10 +1,10 @@
 {
-	title: "从幼苗到发芽",
+	title: "From Seedling to Sprout",
 	x: 4.0d,
 	y: -1.5d,
-	description: "它们生长得如此之快",
+	description: "They animate so fast",
 	text: [
-		"获得一个根须荚果用于活化。"
+		"Obtain a Root Pod for animation."
 	],
 	dependencies: [
 		"f093e2f7"

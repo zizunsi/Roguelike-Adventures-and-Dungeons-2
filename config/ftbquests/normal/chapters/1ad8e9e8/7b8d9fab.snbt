@@ -1,10 +1,10 @@
 {
-	title: "鳄皮武器（以及袋子）！",
+	title: "Lurker Skin Armaments (and Pouch!)",
 	x: -1.0d,
 	y: -1.5d,
-	description: "便利的皮袋子",
+	description: "Handy dandy skin pockets",
 	text: [
-		"制作所有鳄皮装备和工具。"
+		"Craft all of the Lurker Skin armor and tools."
 	],
 	dependencies: [
 		"00e136e8"

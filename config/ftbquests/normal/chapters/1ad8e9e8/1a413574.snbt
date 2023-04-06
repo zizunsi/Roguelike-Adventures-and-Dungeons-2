@@ -1,10 +1,10 @@
 {
-	title: "炽炎铁工具",
+	title: "Octine Tools",
 	x: 12.5d,
 	y: 1.5d,
-	description: "这真的很棒...",
+	description: "This is pretty good...",
 	text: [
-		"制作所有炽炎铁工具和炽炎铁盾牌。"
+		"Craft all of the Octine tools as well as an Octine Shield."
 	],
 	dependencies: [
 		"cb10740a"

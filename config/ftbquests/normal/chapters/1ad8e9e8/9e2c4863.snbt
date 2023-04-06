@@ -1,10 +1,10 @@
 {
-	title: "退后！",
+	title: "Get Back!",
 	x: -11.5d,
 	y: 1.5d,
-	description: "我有一个娃娃，是你！",
+	description: "I've got a doll, and it's you!",
 	text: [
-		"对玩家周围的怪物造成伤害。",
+		"Deals damage to monsters within a range around the player.",
 		"",
 		"Durability is drained on use."
 	],

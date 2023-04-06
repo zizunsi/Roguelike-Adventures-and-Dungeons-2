@@ -1,10 +1,10 @@
 {
-	title: "魔法清洁机",
+	title: "Magic Clean Machine",
 	x: 10.0d,
 	y: 4.0d,
-	description: "对玻璃有效果！",
+	description: "Works with glass!",
 	text: [
-		"制作一个净化器，用于清除某些物品上无用的残渣或状态。"
+		"Craft a Purifier, used to remove unwanted debris or statuses from certain items."
 	],
 	dependencies: [
 		"cb10740a"

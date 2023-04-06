@@ -1,12 +1,12 @@
 {
-	title: "月光宝盒3000",
+	title: "Moonshine Maker 3000",
 	x: 12.0d,
 	y: 4.0d,
-	description: "并非如此...只是讨厌的药水",
+	description: "Not really.. just nasty potions",
 	text: [
-		"制作一个蒸馏器。",
+		"Craft an Alembic.",
 		"",
-		"它用于将炼药器中的流体桶蒸馏成可饮用的药水，或装入要素瓶。"
+		"It is used to distill buckets of liquid from the Infuser into a drinkable potion, or into an Aspect Vial."
 	],
 	dependencies: [
 		"cb10740a"

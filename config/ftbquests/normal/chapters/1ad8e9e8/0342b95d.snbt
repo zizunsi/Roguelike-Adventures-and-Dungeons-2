@@ -1,12 +1,12 @@
 {
-	title: "泥思乐冰",
+	title: "Sludge Slurpee",
 	x: -11.5d,
 	y: -3.0d,
 	description: "Yum",
 	text: [
-		"获得污泥长矛。",
+		"Obtain the Sludge Slicer.",
 		"",
-		"这个物品可以秒杀任何烂泥怪。"
+		"This item will instantly kill any Sludge it touches."
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "友谊之环",
+	title: "Ring of Friendship",
 	x: -12.5d,
 	y: -7.5d,
-	description: "无论如何，它应该叫这个名字。",
+	description: "That's what it should've been called, anyway",
 	text: [
-		"这枚戒指消耗经验以召唤援兵。",
+		"This ring summons minions at the cost of XP.",
 		"",
-		"一个亡灵巫师的朋友……貌似是这样。"
+		"A Necromancers friend... so it seems."
 	],
 	hide_dependency_lines: true,
 	dependencies: [

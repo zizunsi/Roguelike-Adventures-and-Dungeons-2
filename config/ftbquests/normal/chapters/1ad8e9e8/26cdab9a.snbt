@@ -1,10 +1,10 @@
 {
-	title: "善于养花种草",
+	title: "Green-Thumb",
 	x: -7.5d,
 	y: -2.0d,
-	description: "虽然这不是一种健康的绿色",
+	description: "It's not a healthy green though",
 	text: [
-		"从交错次元的树上收集所有类型的树苗。"
+		"Collect all of the different types of saplings from the trees in the Betweenlands."
 	],
 	dependencies: [
 		"35775c9b"

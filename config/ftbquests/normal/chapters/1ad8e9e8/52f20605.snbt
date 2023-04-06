@@ -1,12 +1,12 @@
 {
-	title: "亲吻会很嫉妒它的",
+	title: "KISS Would Be WAY Jealous of This Thing",
 	x: -12.5d,
 	y: 1.5d,
 	description: "YOOWWWW!!",
 	text: [
-		"用蹒跚者舌头制作一个抓钩",
+		"Craft a grapple from the tongue of a Shambler.",
 		"",
-		"恶心。"
+		"Nasty."
 	],
 	hide_dependency_lines: true,
 	dependencies: [

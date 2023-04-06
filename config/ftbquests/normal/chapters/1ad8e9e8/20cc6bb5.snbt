@@ -1,14 +1,14 @@
 {
-	title: "雨靴？不，橡胶靴！",
+	title: "Rain Boots? No RUBBER Boots!",
 	x: 2.5d,
 	y: -4.5d,
-	description: "甚至更好",
+	description: "Even better!",
 	text: [
-		"它们不是完全一样的吗……？",
+		"Aren't they the exact same thing...?",
 		"",
-		"不，任何不属于这里的东西都是无法使用的，傻瓜。",
+		"No, because anything that isn't THESE doesn't work in THE BETWEENLANDS, doofus.",
 		"",
-		"这双靴子让你可以走过所有的垃圾！"
+		"These boots let you walk through all the gunk!"
 	],
 	dependencies: [
 		"00e136e8"
