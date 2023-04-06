@@ -2,11 +2,11 @@
 	title: "Row Row Row Your Boat",
 	x: -1.0d,
 	y: -4.5d,
-	description: "鮟鱇在啃你的船",
+	description: "Anglers are eating your boat",
 	text: [
-		"制作一艘杂草木船。",
+		"Craft a Weedwood Rowboat.",
 		"",
-		"它将协助你渡过交错次元的某些地区。"
+		"It will help you traverse certain parts of the Betweenlands."
 	],
 	dependencies: [
 		"00e136e8"

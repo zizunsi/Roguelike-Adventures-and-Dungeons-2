@@ -1,10 +1,10 @@
 {
-	title: "Yea ''战利品''",
+	title: "Yea ''Loot''",
 	x: 4.0d,
 	y: -4.5d,
-	description: "随你怎么说，恶魔维度",
+	description: "Whatever you say, demonic dimension",
 	text: [
-		"这些卷轴可以被活化器化为物品。"
+		"These scrolls can be animated into items."
 	],
 	dependencies: [
 		"f093e2f7"

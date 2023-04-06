@@ -1,12 +1,12 @@
 {
-	title: "它们包罗万象 ",
+	title: "They’ve Got It All ",
 	x: 6.0d,
 	y: 0.5d,
-	description: "甚至有漏斗！",
+	description: "Even their own hoppers!",
 	text: [
-		"你在这个可怕的维度中生活所需的一切，交错次元都已安排。",
+		"Betweenlands is really set with everything you need to live in this dreadful dimension.",
 		"",
-		"制作一些赛摩铜漏斗来帮助你存储和运输物品。"
+		"Craft some Syrmorite Hoppers to help you with your storage and item moving needs!"
 	],
 	dependencies: [
 		"b8216d73"

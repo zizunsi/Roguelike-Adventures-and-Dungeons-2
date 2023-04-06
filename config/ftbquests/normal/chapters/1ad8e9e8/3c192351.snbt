@@ -1,12 +1,12 @@
 {
-	title: "这有杂草木，那也有",
+	title: "Weedwood This Weedwood That",
 	x: 1.5d,
 	y: -0.5d,
-	description: "你说的都是杂草！",
+	description: "All you talk about is weed!",
 	text: [
-		"获得一些杂草木和一些沼泽芦苇。",
+		"Obtain some Weedwood and some Swamp Reeds.",
 		"",
-		"小心白蚁！"
+		"Watch out for Termites!"
 	],
 	dependencies: [
 		"35775c9b"

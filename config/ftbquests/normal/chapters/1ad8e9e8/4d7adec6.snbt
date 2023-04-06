@@ -1,14 +1,14 @@
 {
-	title: "饮料混合器3000",
+	title: "Drink Mixer 3000",
 	x: 11.0d,
 	y: 4.5d,
-	description: "并非如此...你必须自己去搅拌",
+	description: "Not really... you kinda have to stir it yourself",
 	text: [
-		"你自己的鸡尾酒机！",
+		"Your very own margarita machine!",
 		"",
-		"用于制作药水和要素瓶。",
+		"Used to create Infusions and Aspect Vials.",
 		"",
-		"然后它们可以在蒸馏器中进行蒸馏。"
+		"They can then be distilled in an Alembic."
 	],
 	dependencies: [
 		"cb10740a"

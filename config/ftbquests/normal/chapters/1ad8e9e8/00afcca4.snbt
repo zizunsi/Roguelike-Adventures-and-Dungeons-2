@@ -1,12 +1,12 @@
 {
-	title: "老式时尚",
+	title: "The Old Fashioned Way",
 	x: 3.5d,
 	y: 1.5d,
-	description: "我的是这样做鳄梨酱的",
+	description: "This is how I make my guac",
 	text: [
-		"制作研磨器和杵。",
+		"Craft a Mortar and Pestle.",
 		"",
-		"该方块用于研磨某些物品，以便在炼药器中使用。"
+		"This station is used to grind up certain items to be used in the Infuser."
 	],
 	dependencies: [
 		"3c192351"
