@@ -8,7 +8,7 @@
 		"",
 		"I hate KNOWING there's air pockets in an area, that's a peeve.",
 		"",
-		"The Exchange Scepter will exchange blocks from your inventory when Right-Clicking. Blocks in your hotbar are not used."
+		"test The Exchange Scepter will exchange blocks from your inventory when Right-Clicking. Blocks in your hotbar are not used."
 	],
 	tasks: [{
 		uid: "e5926fe8",
